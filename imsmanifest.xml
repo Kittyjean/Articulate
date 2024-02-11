@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6Ybhs88vHF4_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6XkZOy8MqP8_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">5 minute story</langstring>
+          <langstring xml:lang="x-none">Sarah Tecson - CV/Portfolio</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,59 +50,79 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="5_minute_story_ORG">
-    <organization identifier="5_minute_story_ORG">
-      <title>5 minute story</title>
-      <item identifier="minions_SCO" isvisible="true" identifierref="__6Ybhs88vHF4_course_id_RES">
-        <title>5 minute story</title>
+  <organizations default="Sarah_Tecson_-_CV/Portfolio_ORG">
+    <organization identifier="Sarah_Tecson_-_CV/Portfolio_ORG">
+      <title>Sarah Tecson - CV/Portfolio</title>
+      <item identifier="Sarah_Tecson_-_CV/Portfolio_SCO" isvisible="true" identifierref="__6XkZOy8MqP8_course_id_RES">
+        <title>Sarah Tecson - CV/Portfolio</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6Ybhs88vHF4_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6XkZOy8MqP8_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
-      <file href="mobile/6rO1NrUo2Q8.png" />
-      <file href="mobile/6OVjlyORbzg_P_0_229_866_201.png" />
-      <file href="story_content/6PpiT5VXwPO_44100_48_0.mp3" />
-      <file href="mobile/6OcVsLk8ZHz.png" />
-      <file href="mobile/5rkd17xeXci_P_0_108_789_347.png" />
-      <file href="mobile/5iTrsuLfvUf.png" />
-      <file href="mobile/6fMkNPPM7Sr.jpg" />
-      <file href="story_content/69VVR3jkHBx_44100_48_0.mp3" />
-      <file href="mobile/6as8oSwVKqn.png" />
-      <file href="mobile/6XFyDgUnIBo.png" />
-      <file href="story_content/6gF6xy5lOpp_44100_48_0.mp3" />
-      <file href="story_content/6BV5bLFeRJ7_44100_48_0.mp3" />
-      <file href="mobile/6beAjTPUWlA.jpg" />
-      <file href="mobile/5oGuRGEwpCD_X_P_0_57_950_517.jpg" />
-      <file href="story_content/63ZLCVVlgUB_44100_48_0.mp3" />
-      <file href="mobile/6OBBl7cpigM.png" />
-      <file href="story_content/6VlAgmcBaEz_44100_48_0.mp3" />
-      <file href="story_content/5vxsWkpKDfb_44100_48_0.mp3" />
-      <file href="story_content/69tsLAkptNH_44100_48_0.mp3" />
-      <file href="story_content/5e3nzGqvYO7_44100_48_0.mp3" />
+      <file href="mobile/5ycpD4FUmD7_P_0_92_1582_1955.png" />
+      <file href="mobile/5g9nyop3wDo_P_786_82_1261_1282.jpg" />
+      <file href="mobile/6FjGZerkDjC_P_0_0_2048_700.jpg" />
+      <file href="mobile/68PPdpM2DT3_P_0_98_2048_1134.jpg" />
+      <file href="mobile/61COc7N5XDs_P_0_582_1363_1465.jpg" />
+      <file href="mobile/6BkkZ8b1Q5G_P_0_602_1536_1445.jpg" />
+      <file href="mobile/6ZLsArZUeDO.jpg" />
+      <file href="mobile/5oFSxWNSR6g_B-1_C25.png" />
+      <file href="story_content/6eKH8W2h9QB_44100_48_0.mp3" />
+      <file href="story_content/664jL68m7nD_44100_48_0.mp3" />
+      <file href="mobile/62WMAAHK7kH.gif" />
+      <file href="mobile/5oFSxWNSR6g.png" />
+      <file href="mobile/6oqX2fznKFj.png" />
+      <file href="mobile/6FL6QQ87s8R.png" />
+      <file href="story_content/5Xy5Oxp91wO_44100_48_0.mp3" />
+      <file href="story_content/6HbnOGoPlmj_44100_48_0.mp3" />
+      <file href="story_content/5gUM7SsZinD_44100_48_0.mp3" />
+      <file href="story_content/6mc4HRsw9Od_44100_48_0.mp3" />
+      <file href="mobile/62zhBSpRZ0l_P_0_220_2048_1145.jpg" />
+      <file href="mobile/62zhBSpRZ0l_P_0_220_2048_663.jpg" />
+      <file href="mobile/6dltxsoJtBg_P_0_0_630_736.jpg" />
+      <file href="mobile/5c1byfGYSJb_P_0_7_354_413.jpg" />
+      <file href="mobile/6M8qOlsJWGn_P_0_0_204_238.jpg" />
+      <file href="mobile/6gmzKFaXvGM_P_233_0_1213_1423.jpg" />
+      <file href="mobile/5h8NI5ymm7S.jpg" />
+      <file href="mobile/5lPLzJ0rJNP_P_45_237_1471_1805.png" />
       <file href="meta.xml" />
       <file href="story_content/user.js" />
-      <file href="mobile/Shape6WQmQ0CmZws.png" />
-      <file href="mobile/Shape5l1HnEpmc9g.png" />
-      <file href="mobile/Shape5tdz8z43XWs.png" />
-      <file href="mobile/Shape6HsXlsTj3S1.png" />
-      <file href="mobile/Shape5o36MQppDag.png" />
-      <file href="mobile/Shape6B1uEyvG3t3.png" />
-      <file href="mobile/Shape663XiPITN8g.png" />
+      <file href="mobile/Shape6KX66I2KHMI.png" />
+      <file href="mobile/Shape6ewV4JszbDq.png" />
+      <file href="mobile/Shape6h93XrmxNxR.png" />
+      <file href="mobile/Shape5zivnjlKLLY.png" />
+      <file href="mobile/Shape5dTbMxQbDnI.png" />
+      <file href="mobile/Shape6AOPwo6HdHu.png" />
+      <file href="mobile/Shape6evdETMAjqy.png" />
+      <file href="mobile/Shape6IWujDkfBOt.png" />
+      <file href="mobile/Shape6X049AMyP2B.png" />
+      <file href="mobile/Shape5cmAcp8BsTI.png" />
+      <file href="mobile/Shape5wqaRRNYoFK.png" />
       <file href="html5/data/css/output.min.css" />
-      <file href="html5/data/js/5guH61i73pL.js" />
-      <file href="html5/data/js/5mGbpujaO5v.js" />
-      <file href="html5/data/js/5X2XszdgHKo.js" />
-      <file href="html5/data/js/5zz4I6Fhg3J.js" />
-      <file href="html5/data/js/6eGkm9M6mwy.js" />
-      <file href="html5/data/js/6GTxWo8LcSm.js" />
-      <file href="html5/data/js/6Is3JmTaAQI.js" />
-      <file href="html5/data/js/6nakRUETvz6.js" />
-      <file href="html5/data/js/6QgsbfnR9kT.js" />
+      <file href="html5/data/js/5a0Pre1j0a9.js" />
+      <file href="html5/data/js/5a4RMDB3raZ.js" />
+      <file href="html5/data/js/5gHZAUS8Thl.js" />
+      <file href="html5/data/js/5grsJ3PHG1G.js" />
+      <file href="html5/data/js/5iVXIO6JbxK.js" />
+      <file href="html5/data/js/5mzzzmF0cFM.js" />
+      <file href="html5/data/js/5X9q47142Zp.js" />
+      <file href="html5/data/js/5XFvforW8xa.js" />
+      <file href="html5/data/js/5XwR1vZyTb2.js" />
+      <file href="html5/data/js/5yOW2Qj0YX1.js" />
+      <file href="html5/data/js/5zujy4sdjgo.js" />
+      <file href="html5/data/js/6AkcQBly7Gg.js" />
+      <file href="html5/data/js/6c4eKevp37q.js" />
+      <file href="html5/data/js/6eJlj04QQC3.js" />
+      <file href="html5/data/js/6hymrXDZCjy.js" />
+      <file href="html5/data/js/6NJfuNfV9s1.js" />
+      <file href="html5/data/js/6SeBoPapeSS.js" />
+      <file href="html5/data/js/6ULnoKLPj76.js" />
       <file href="html5/data/js/data.js" />
       <file href="html5/data/js/frame.js" />
       <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
       <file href="html5/lib/scripts/bootstrapper.min.js" />
       <file href="html5/lib/scripts/frame.desktop.min.js" />
       <file href="html5/lib/scripts/frame.mobile.min.js" />
